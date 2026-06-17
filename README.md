@@ -67,7 +67,7 @@ Core tasks of the certifying examination have been extensively studied as both t
 
 #### Image
 
-<p align="center"> <img src="Visual/80/Image.jpg" alt="Example medical image" width="300"> </p>
+<p align="center"> <img src="Visual_examples/Image.jpg" alt="Example medical image" width="300"> </p>
 
 #### Findings
 
