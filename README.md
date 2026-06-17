@@ -24,7 +24,7 @@ This repository contains only a small number of example samples for quick refere
 
 #### Medical Assertions
 
-```bash
+```txt
 # Surgery_Schwartz_6744
 
 [
@@ -42,7 +42,7 @@ This repository contains only a small number of example samples for quick refere
 
 #### Retrieval Cues
 
-```bash
+```txt
 [
     "What have core tasks of the certifying examination been studied as predictors of in clinical performance?", 
     "What is the maximum pass rate that proficiency-based training can achieve on the Fundamentals of Laparoscopic Surgery?", 
@@ -58,7 +58,7 @@ This repository contains only a small number of example samples for quick refere
 
 #### A citable evidence snippet
 
-```json
+```txt
 Core tasks of the certifying examination have been extensively studied as both training curriculum components and predictors of clinical performance. Recent research indicates that specific proficiency-based training can elevate pass rates on the Fundamentals of Laparoscopic Surgery (FLS) to 100%, reinforcing the advantages of this training model. Similarly, the Fundamentals of Endoscopic Surgery (FES) certification, which includes a virtual reality simulator for flexible endoscopy, serves to enhance technical skill assessment. Procedure-specific simulation provides valuable opportunities to practice and evaluate essential surgical skills, bridging the gap between basic and complex technical abilities alongside surgical decision-making. While many simulation trainers concentrate on bedside procedures like central venous catheter placement and intubation, some are specifically designed for more intricate operations, including laparoscopic ventral hernia repair and robotic nephrectomy. Currently, simulation technologies encompass virtual reality, physical models, and hybrid models, each offering unique benefits. However, there is a pressing need for cost-effective fabrication methods that yield anatomically accurate models with realistic tissue properties. Several research groups are investigating the potential of three-dimensional (3D) printing for creating surgical simulation models, achieving varying levels of success. As advancements in printing materials and technologies continue to improve, the integration of 3D printing into procedure-specific simulations is expected to grow significantly, enhancing surgical training overall.
 ```
 
@@ -80,7 +80,7 @@ Core tasks of the certifying examination have been extensively studied as both t
 
 #### Medical Assertions
 
-```json
+```txt
 [CXR][][Lung][left lower base][Opacity][increased][present][certain]  
 [CXR][][Lung][left][Volume loss][][present][certain]  
 [CXR][][Lung][left][Aspiration concern][][present][possible]  
@@ -91,7 +91,7 @@ Core tasks of the certifying examination have been extensively studied as both t
 
 #### Retrieval Cues
 
-```json
+```txt
 Is there an increased opacity in the left lower lung base, and if so, what is its significance in terms of possible aspiration?
 Is there evidence of volume loss in the left lung, and if so, what is the likely cause?
 Is there a concern for aspiration in the left lung, and if so, where is it located?
