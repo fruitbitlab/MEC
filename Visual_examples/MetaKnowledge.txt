@@ -1,0 +1,6 @@
+[CXR][][Lung][left lower base][Opacity][increased][present][certain]  
+[CXR][][Lung][left][Volume loss][][present][certain]  
+[CXR][][Lung][left][Aspiration concern][][present][possible]  
+[CXR][][Lung][right][Opacity][][absent][certain]  
+[CXR][][Heart][][Cardiac size][unchanged][present][certain]  
+[CXR][][Pleura][][Pneumothorax][][absent][certain]
